@@ -1,0 +1,67 @@
+{
+  "key": "stor-bambu",
+  "option": "stor-bambu",
+  "label": "Bambu stor",
+  "slot": "stor",
+  "pleat": null,
+  "pleat_label": null,
+  "weave": null,
+  "weave_label": null,
+  "trim": null,
+  "shadow": {
+    "light": {
+      "file": "shadow_light.png",
+      "scale": 1.1478742361068726
+    },
+    "dark": {
+      "file": "shadow_dark.png",
+      "scale": 1.055311918258667
+    }
+  },
+  "room_shadow": {
+    "sun": {
+      "light": {
+        "file": "sun_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "sun_dark.png",
+        "scale": 2.0
+      }
+    },
+    "rest": {
+      "light": {
+        "file": "rest_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "rest_dark.png",
+        "scale": 1.9903740882873535
+      }
+    }
+  },
+  "zones": [
+    {
+      "id": "bambu",
+      "label": "Bambu stor",
+      "kind": "bambu",
+      "pleat": null,
+      "weave": null,
+      "sheer": null,
+      "light": {
+        "file": "bambu_light.png",
+        "scale": 0.6798285245895386
+      },
+      "dark": {
+        "file": "bambu_dark.png",
+        "scale": 0.1234562024474144
+      },
+      "uv": {
+        "file": "bambu_uv.png",
+        "scale_u": 2.3790290355682373,
+        "scale_v": 1.7445671558380127
+      }
+    }
+  ],
+  "preview": "onizleme.png"
+}

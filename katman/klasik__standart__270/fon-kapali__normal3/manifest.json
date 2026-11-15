@@ -1,0 +1,67 @@
+{
+  "key": "fon-kapali__normal3",
+  "option": "fon-kapali",
+  "label": "Kapalı fon",
+  "slot": "fon",
+  "pleat": "normal3",
+  "pleat_label": "Normal pile 1:3",
+  "weave": null,
+  "weave_label": null,
+  "trim": null,
+  "shadow": {
+    "light": {
+      "file": "shadow_light.png",
+      "scale": 2.0
+    },
+    "dark": {
+      "file": "shadow_dark.png",
+      "scale": 1.6042934656143188
+    }
+  },
+  "room_shadow": {
+    "sun": {
+      "light": {
+        "file": "sun_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "sun_dark.png",
+        "scale": 2.0
+      }
+    },
+    "rest": {
+      "light": {
+        "file": "rest_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "rest_dark.png",
+        "scale": 1.7998130321502686
+      }
+    }
+  },
+  "zones": [
+    {
+      "id": "fon",
+      "label": "Fon",
+      "kind": "fon",
+      "pleat": "normal3",
+      "weave": null,
+      "sheer": false,
+      "light": {
+        "file": "fon_light.png",
+        "scale": 1.0376895666122437
+      },
+      "dark": {
+        "file": "fon_dark.png",
+        "scale": 0.2149582803249359
+      },
+      "uv": {
+        "file": "fon_uv.png",
+        "scale_u": 8.775480270385742,
+        "scale_v": 2.9598536491394043
+      }
+    }
+  ],
+  "preview": "onizleme.png"
+}

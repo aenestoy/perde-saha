@@ -1,0 +1,71 @@
+{
+  "key": "stor-duz",
+  "option": "stor-duz",
+  "label": "Düz stor",
+  "slot": "stor",
+  "pleat": null,
+  "pleat_label": null,
+  "weave": null,
+  "weave_label": null,
+  "trim": null,
+  "shadow": {
+    "light": {
+      "file": "shadow_light.png",
+      "scale": 1.2064332962036133
+    },
+    "dark": {
+      "file": "shadow_dark.png",
+      "scale": 1.025170922279358
+    }
+  },
+  "room_shadow": {
+    "sun": {
+      "light": {
+        "file": "sun_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "sun_dark.png",
+        "scale": 2.0
+      }
+    },
+    "rest": {
+      "light": {
+        "file": "rest_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "rest_dark.png",
+        "scale": 1.9750736951828003
+      }
+    }
+  },
+  "transmittance": {
+    "light": "tau_light.png",
+    "dark": "tau_dark.png"
+  },
+  "zones": [
+    {
+      "id": "stor",
+      "label": "Stor",
+      "kind": "stor",
+      "pleat": null,
+      "weave": null,
+      "sheer": null,
+      "light": {
+        "file": "stor_light.png",
+        "scale": 0.748053252696991
+      },
+      "dark": {
+        "file": "stor_dark.png",
+        "scale": 0.12476696074008942
+      },
+      "uv": {
+        "file": "stor_uv.png",
+        "scale_u": 2.3790273666381836,
+        "scale_v": 1.7445671558380127
+      }
+    }
+  ],
+  "preview": "onizleme.png"
+}

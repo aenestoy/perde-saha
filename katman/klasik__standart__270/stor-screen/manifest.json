@@ -1,0 +1,67 @@
+{
+  "key": "stor-screen",
+  "option": "stor-screen",
+  "label": "Screen stor",
+  "slot": "stor",
+  "pleat": null,
+  "pleat_label": null,
+  "weave": null,
+  "weave_label": null,
+  "trim": null,
+  "shadow": {
+    "light": {
+      "file": "shadow_light.png",
+      "scale": 1.187680959701538
+    },
+    "dark": {
+      "file": "shadow_dark.png",
+      "scale": 1.0255264043807983
+    }
+  },
+  "room_shadow": {
+    "sun": {
+      "light": {
+        "file": "sun_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "sun_dark.png",
+        "scale": 2.0
+      }
+    },
+    "rest": {
+      "light": {
+        "file": "rest_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "rest_dark.png",
+        "scale": 1.8686772584915161
+      }
+    }
+  },
+  "zones": [
+    {
+      "id": "screen",
+      "label": "Screen stor",
+      "kind": "screen",
+      "pleat": null,
+      "weave": null,
+      "sheer": null,
+      "light": {
+        "file": "screen_light.png",
+        "scale": 0.7761797904968262
+      },
+      "dark": {
+        "file": "screen_dark.png",
+        "scale": 0.09829555451869965
+      },
+      "uv": {
+        "file": "screen_uv.png",
+        "scale_u": 2.379025936126709,
+        "scale_v": 1.7445671558380127
+      }
+    }
+  ],
+  "preview": "onizleme.png"
+}

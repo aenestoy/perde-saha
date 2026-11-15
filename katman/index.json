@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    {
+      "key": "klasik__standart__270",
+      "room": "klasik",
+      "window": "standart",
+      "window_label": "Standart pencere",
+      "ceiling": 270,
+      "layers": 26
+    }
+  ]
+}

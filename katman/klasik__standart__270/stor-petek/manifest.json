@@ -1,0 +1,67 @@
+{
+  "key": "stor-petek",
+  "option": "stor-petek",
+  "label": "Petek stor",
+  "slot": "stor",
+  "pleat": null,
+  "pleat_label": null,
+  "weave": null,
+  "weave_label": null,
+  "trim": null,
+  "shadow": {
+    "light": {
+      "file": "shadow_light.png",
+      "scale": 1.1388965845108032
+    },
+    "dark": {
+      "file": "shadow_dark.png",
+      "scale": 1.0243284702301025
+    }
+  },
+  "room_shadow": {
+    "sun": {
+      "light": {
+        "file": "sun_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "sun_dark.png",
+        "scale": 2.0
+      }
+    },
+    "rest": {
+      "light": {
+        "file": "rest_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "rest_dark.png",
+        "scale": 1.972610592842102
+      }
+    }
+  },
+  "zones": [
+    {
+      "id": "petek",
+      "label": "Petek stor",
+      "kind": "petek",
+      "pleat": null,
+      "weave": null,
+      "sheer": null,
+      "light": {
+        "file": "petek_light.png",
+        "scale": 0.6965476870536804
+      },
+      "dark": {
+        "file": "petek_dark.png",
+        "scale": 0.1084180474281311
+      },
+      "uv": {
+        "file": "petek_uv.png",
+        "scale_u": 2.3861515522003174,
+        "scale_v": 2.1717517375946045
+      }
+    }
+  ],
+  "preview": "onizleme.png"
+}

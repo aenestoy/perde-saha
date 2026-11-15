@@ -1,0 +1,67 @@
+{
+  "key": "stor-zebra",
+  "option": "stor-zebra",
+  "label": "Zebra stor",
+  "slot": "stor",
+  "pleat": null,
+  "pleat_label": null,
+  "weave": null,
+  "weave_label": null,
+  "trim": null,
+  "shadow": {
+    "light": {
+      "file": "shadow_light.png",
+      "scale": 1.1900147199630737
+    },
+    "dark": {
+      "file": "shadow_dark.png",
+      "scale": 1.0734816789627075
+    }
+  },
+  "room_shadow": {
+    "sun": {
+      "light": {
+        "file": "sun_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "sun_dark.png",
+        "scale": 2.0
+      }
+    },
+    "rest": {
+      "light": {
+        "file": "rest_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "rest_dark.png",
+        "scale": 1.893850326538086
+      }
+    }
+  },
+  "zones": [
+    {
+      "id": "zebra",
+      "label": "Zebra stor",
+      "kind": "zebra",
+      "pleat": null,
+      "weave": null,
+      "sheer": null,
+      "light": {
+        "file": "zebra_light.png",
+        "scale": 0.7719823122024536
+      },
+      "dark": {
+        "file": "zebra_dark.png",
+        "scale": 0.11412857472896576
+      },
+      "uv": {
+        "file": "zebra_uv.png",
+        "scale_u": 2.326460123062134,
+        "scale_v": 1.2628268003463745
+      }
+    }
+  ],
+  "preview": "onizleme.png"
+}

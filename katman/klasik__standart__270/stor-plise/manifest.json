@@ -1,0 +1,67 @@
+{
+  "key": "stor-plise",
+  "option": "stor-plise",
+  "label": "Plise stor",
+  "slot": "stor",
+  "pleat": null,
+  "pleat_label": null,
+  "weave": null,
+  "weave_label": null,
+  "trim": null,
+  "shadow": {
+    "light": {
+      "file": "shadow_light.png",
+      "scale": 1.2027409076690674
+    },
+    "dark": {
+      "file": "shadow_dark.png",
+      "scale": 1.0239523649215698
+    }
+  },
+  "room_shadow": {
+    "sun": {
+      "light": {
+        "file": "sun_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "sun_dark.png",
+        "scale": 2.0
+      }
+    },
+    "rest": {
+      "light": {
+        "file": "rest_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "rest_dark.png",
+        "scale": 1.9697492122650146
+      }
+    }
+  },
+  "zones": [
+    {
+      "id": "plise",
+      "label": "Plise stor",
+      "kind": "plise",
+      "pleat": null,
+      "weave": null,
+      "sheer": null,
+      "light": {
+        "file": "plise_light.png",
+        "scale": 0.8203169703483582
+      },
+      "dark": {
+        "file": "plise_dark.png",
+        "scale": 0.10696738213300705
+      },
+      "uv": {
+        "file": "plise_uv.png",
+        "scale_u": 2.3247416019439697,
+        "scale_v": 2.434339761734009
+      }
+    }
+  ],
+  "preview": "onizleme.png"
+}

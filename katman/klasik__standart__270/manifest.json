@@ -1,0 +1,2088 @@
+{
+  "room": "klasik",
+  "window": "standart",
+  "window_label": "Standart pencere",
+  "ceiling": 270,
+  "width": 1640,
+  "height": 820,
+  "wall_bake": {
+    "light": "#EFEAE0",
+    "dark": "#4A4A46"
+  },
+  "zone_bake": {
+    "light": 1.0,
+    "dark": 0.16
+  },
+  "frame_bake": {
+    "light": 0.92,
+    "dark": 0.12
+  },
+  "key": "klasik__standart__270",
+  "plate": {
+    "light": {
+      "file": "plate_light.png",
+      "scale": 3.4224019050598145
+    },
+    "dark": {
+      "file": "plate_dark.png",
+      "scale": 0.7964207530021667
+    },
+    "wall_mask": "wall_mask.png",
+    "sun_share": "sun_share.png"
+  },
+  "frame": {
+    "light": {
+      "file": "frame_light.png",
+      "scale": 1.1586863994598389
+    },
+    "dark": {
+      "file": "frame_dark.png",
+      "scale": 0.25211185216903687
+    },
+    "grain": {
+      "mese": "grain_mese.png",
+      "ceviz": "grain_ceviz.png",
+      "disbudak": "grain_disbudak.png",
+      "koyu-mese": "grain_koyu-mese.png"
+    }
+  },
+  "layers": [
+    {
+      "key": "bando",
+      "option": "bando",
+      "label": "Bando",
+      "slot": "bando",
+      "pleat": null,
+      "pleat_label": null,
+      "weave": null,
+      "weave_label": null,
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 1.5342206954956055
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.059509515762329
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 1.5767490863800049
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.146106243133545
+          }
+        }
+      },
+      "zones": [
+        {
+          "id": "bando",
+          "label": "Bando",
+          "kind": "bando",
+          "pleat": null,
+          "weave": null,
+          "sheer": null,
+          "light": {
+            "file": "bando_light.png",
+            "scale": 0.7050487399101257
+          },
+          "dark": {
+            "file": "bando_dark.png",
+            "scale": 0.12465240806341171
+          },
+          "uv": {
+            "file": "bando_uv.png",
+            "scale_u": 3.2192814350128174,
+            "scale_v": 0.2974153459072113
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "fon-cift-kanat__normal3",
+      "option": "fon-cift-kanat",
+      "label": "Çift kanat fon",
+      "slot": "fon",
+      "pleat": "normal3",
+      "pleat_label": "Normal pile 1:3",
+      "weave": null,
+      "weave_label": null,
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 2.0
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.6076176166534424
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 1.9049237966537476
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.7988866567611694
+          }
+        }
+      },
+      "zones": [
+        {
+          "id": "fon-sol",
+          "label": "Sol fon",
+          "kind": "fon",
+          "pleat": "normal3",
+          "weave": null,
+          "sheer": false,
+          "light": {
+            "file": "fon-sol_light.png",
+            "scale": 1.0104029178619385
+          },
+          "dark": {
+            "file": "fon-sol_dark.png",
+            "scale": 0.22486311197280884
+          },
+          "uv": {
+            "file": "fon-sol_uv.png",
+            "scale_u": 2.36702561378479,
+            "scale_v": 2.874218702316284
+          }
+        },
+        {
+          "id": "fon-sag",
+          "label": "Sağ fon",
+          "kind": "fon",
+          "pleat": "normal3",
+          "weave": null,
+          "sheer": false,
+          "light": {
+            "file": "fon-sag_light.png",
+            "scale": 0.6176871061325073
+          },
+          "dark": {
+            "file": "fon-sag_dark.png",
+            "scale": 0.11160095036029816
+          },
+          "uv": {
+            "file": "fon-sag_uv.png",
+            "scale_u": 2.1745848655700684,
+            "scale_v": 2.9628148078918457
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "fon-drapeli__normal3",
+      "option": "fon-drapeli",
+      "label": "Drapeli tek kanat fon",
+      "slot": "fon",
+      "pleat": "normal3",
+      "pleat_label": "Normal pile 1:3",
+      "weave": null,
+      "weave_label": null,
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 2.0
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.6548871994018555
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.8337359428405762
+          }
+        }
+      },
+      "zones": [
+        {
+          "id": "fon-sag",
+          "label": "Sağ fon",
+          "kind": "fon",
+          "pleat": "normal3",
+          "weave": null,
+          "sheer": false,
+          "light": {
+            "file": "fon-sag_light.png",
+            "scale": 1.5349509716033936
+          },
+          "dark": {
+            "file": "fon-sag_dark.png",
+            "scale": 0.4907331168651581
+          },
+          "uv": {
+            "file": "fon-sag_uv.png",
+            "scale_u": 3.2899880409240723,
+            "scale_v": 2.952857732772827
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "fon-kapali__normal3",
+      "option": "fon-kapali",
+      "label": "Kapalı fon",
+      "slot": "fon",
+      "pleat": "normal3",
+      "pleat_label": "Normal pile 1:3",
+      "weave": null,
+      "weave_label": null,
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 2.0
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.6042934656143188
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.7998130321502686
+          }
+        }
+      },
+      "zones": [
+        {
+          "id": "fon",
+          "label": "Fon",
+          "kind": "fon",
+          "pleat": "normal3",
+          "weave": null,
+          "sheer": false,
+          "light": {
+            "file": "fon_light.png",
+            "scale": 1.0376895666122437
+          },
+          "dark": {
+            "file": "fon_dark.png",
+            "scale": 0.2149582803249359
+          },
+          "uv": {
+            "file": "fon_uv.png",
+            "scale_u": 8.775480270385742,
+            "scale_v": 2.9598536491394043
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "fon-kusakli__normal3",
+      "option": "fon-kusakli",
+      "label": "Kuşaklı fon",
+      "slot": "fon",
+      "pleat": "normal3",
+      "pleat_label": "Normal pile 1:3",
+      "weave": null,
+      "weave_label": null,
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 2.0
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.6107653379440308
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 1.863648772239685
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.6845289468765259
+          }
+        }
+      },
+      "zones": [
+        {
+          "id": "fon-sol",
+          "label": "Sol fon",
+          "kind": "fon",
+          "pleat": "normal3",
+          "weave": null,
+          "sheer": false,
+          "light": {
+            "file": "fon-sol_light.png",
+            "scale": 1.0053131580352783
+          },
+          "dark": {
+            "file": "fon-sol_dark.png",
+            "scale": 0.20762726664543152
+          },
+          "uv": {
+            "file": "fon-sol_uv.png",
+            "scale_u": 2.9575271606445312,
+            "scale_v": 2.9813263416290283
+          }
+        },
+        {
+          "id": "fon-sag",
+          "label": "Sağ fon",
+          "kind": "fon",
+          "pleat": "normal3",
+          "weave": null,
+          "sheer": false,
+          "light": {
+            "file": "fon-sag_light.png",
+            "scale": 1.2527464628219604
+          },
+          "dark": {
+            "file": "fon-sag_dark.png",
+            "scale": 0.2807486653327942
+          },
+          "uv": {
+            "file": "fon-sag_uv.png",
+            "scale_u": 2.459735870361328,
+            "scale_v": 3.065236806869507
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "fon-tek-kanat__normal3",
+      "option": "fon-tek-kanat",
+      "label": "Tek kanat fon",
+      "slot": "fon",
+      "pleat": "normal3",
+      "pleat_label": "Normal pile 1:3",
+      "weave": null,
+      "weave_label": null,
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 2.0
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.653215765953064
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.8260976076126099
+          }
+        }
+      },
+      "zones": [
+        {
+          "id": "fon-sag",
+          "label": "Sağ fon",
+          "kind": "fon",
+          "pleat": "normal3",
+          "weave": null,
+          "sheer": false,
+          "light": {
+            "file": "fon-sag_light.png",
+            "scale": 0.648848295211792
+          },
+          "dark": {
+            "file": "fon-sag_dark.png",
+            "scale": 0.1260969340801239
+          },
+          "uv": {
+            "file": "fon-sag_uv.png",
+            "scale_u": 2.310577392578125,
+            "scale_v": 2.9159553050994873
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "japon",
+      "option": "japon",
+      "label": "Japon perde",
+      "slot": "fon",
+      "pleat": null,
+      "pleat_label": null,
+      "weave": null,
+      "weave_label": null,
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 2.0
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.6065216064453125
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.915347933769226
+          }
+        }
+      },
+      "zones": [
+        {
+          "id": "japon",
+          "label": "Japon panel",
+          "kind": "japon",
+          "pleat": null,
+          "weave": null,
+          "sheer": null,
+          "light": {
+            "file": "japon_light.png",
+            "scale": 0.7389876842498779
+          },
+          "dark": {
+            "file": "japon_dark.png",
+            "scale": 0.12126683443784714
+          },
+          "uv": {
+            "file": "japon_uv.png",
+            "scale_u": 0.6845948100090027,
+            "scale_v": 2.9402360916137695
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "stor-bambu",
+      "option": "stor-bambu",
+      "label": "Bambu stor",
+      "slot": "stor",
+      "pleat": null,
+      "pleat_label": null,
+      "weave": null,
+      "weave_label": null,
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 1.1478742361068726
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.055311918258667
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.9903740882873535
+          }
+        }
+      },
+      "zones": [
+        {
+          "id": "bambu",
+          "label": "Bambu stor",
+          "kind": "bambu",
+          "pleat": null,
+          "weave": null,
+          "sheer": null,
+          "light": {
+            "file": "bambu_light.png",
+            "scale": 0.6798285245895386
+          },
+          "dark": {
+            "file": "bambu_dark.png",
+            "scale": 0.1234562024474144
+          },
+          "uv": {
+            "file": "bambu_uv.png",
+            "scale_u": 2.3790290355682373,
+            "scale_v": 1.7445671558380127
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "stor-blackout",
+      "option": "stor-blackout",
+      "label": "Blackout stor",
+      "slot": "stor",
+      "pleat": null,
+      "pleat_label": null,
+      "weave": null,
+      "weave_label": null,
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 1.1538448333740234
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.025756597518921
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.9777088165283203
+          }
+        }
+      },
+      "transmittance": {
+        "light": "tau_light.png",
+        "dark": "tau_dark.png"
+      },
+      "zones": [
+        {
+          "id": "blackout",
+          "label": "Blackout stor",
+          "kind": "blackout",
+          "pleat": null,
+          "weave": null,
+          "sheer": null,
+          "light": {
+            "file": "blackout_light.png",
+            "scale": 0.7626835703849792
+          },
+          "dark": {
+            "file": "blackout_dark.png",
+            "scale": 0.13462969660758972
+          },
+          "uv": {
+            "file": "blackout_uv.png",
+            "scale_u": 2.3790290355682373,
+            "scale_v": 1.744565486907959
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "stor-duble",
+      "option": "stor-duble",
+      "label": "Duble stor",
+      "slot": "stor",
+      "pleat": null,
+      "pleat_label": null,
+      "weave": null,
+      "weave_label": null,
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 1.8708046674728394
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.1246702671051025
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.8635247945785522
+          }
+        }
+      },
+      "zones": [
+        {
+          "id": "duble-arka",
+          "label": "Arka (karartma)",
+          "kind": "blackout",
+          "pleat": null,
+          "weave": null,
+          "sheer": null,
+          "light": {
+            "file": "duble-arka_light.png",
+            "scale": 0.7381621599197388
+          },
+          "dark": {
+            "file": "duble-arka_dark.png",
+            "scale": 0.09857027232646942
+          },
+          "uv": {
+            "file": "duble-arka_uv.png",
+            "scale_u": 2.88187575340271,
+            "scale_v": 0.9567258358001709
+          }
+        },
+        {
+          "id": "duble-on",
+          "label": "Ön (screen)",
+          "kind": "screen",
+          "pleat": null,
+          "weave": null,
+          "sheer": null,
+          "light": {
+            "file": "duble-on_light.png",
+            "scale": 0.8658179640769958
+          },
+          "dark": {
+            "file": "duble-on_dark.png",
+            "scale": 0.1050683781504631
+          },
+          "uv": {
+            "file": "duble-on_uv.png",
+            "scale_u": 2.2147467136383057,
+            "scale_v": 1.7760335206985474
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "stor-duz",
+      "option": "stor-duz",
+      "label": "Düz stor",
+      "slot": "stor",
+      "pleat": null,
+      "pleat_label": null,
+      "weave": null,
+      "weave_label": null,
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 1.2064332962036133
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.025170922279358
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.9750736951828003
+          }
+        }
+      },
+      "transmittance": {
+        "light": "tau_light.png",
+        "dark": "tau_dark.png"
+      },
+      "zones": [
+        {
+          "id": "stor",
+          "label": "Stor",
+          "kind": "stor",
+          "pleat": null,
+          "weave": null,
+          "sheer": null,
+          "light": {
+            "file": "stor_light.png",
+            "scale": 0.748053252696991
+          },
+          "dark": {
+            "file": "stor_dark.png",
+            "scale": 0.12476696074008942
+          },
+          "uv": {
+            "file": "stor_uv.png",
+            "scale_u": 2.3790273666381836,
+            "scale_v": 1.7445671558380127
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "stor-petek",
+      "option": "stor-petek",
+      "label": "Petek stor",
+      "slot": "stor",
+      "pleat": null,
+      "pleat_label": null,
+      "weave": null,
+      "weave_label": null,
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 1.1388965845108032
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.0243284702301025
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.972610592842102
+          }
+        }
+      },
+      "zones": [
+        {
+          "id": "petek",
+          "label": "Petek stor",
+          "kind": "petek",
+          "pleat": null,
+          "weave": null,
+          "sheer": null,
+          "light": {
+            "file": "petek_light.png",
+            "scale": 0.6965476870536804
+          },
+          "dark": {
+            "file": "petek_dark.png",
+            "scale": 0.1084180474281311
+          },
+          "uv": {
+            "file": "petek_uv.png",
+            "scale_u": 2.3861515522003174,
+            "scale_v": 2.1717517375946045
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "stor-plise",
+      "option": "stor-plise",
+      "label": "Plise stor",
+      "slot": "stor",
+      "pleat": null,
+      "pleat_label": null,
+      "weave": null,
+      "weave_label": null,
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 1.2027409076690674
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.0239523649215698
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.9697492122650146
+          }
+        }
+      },
+      "zones": [
+        {
+          "id": "plise",
+          "label": "Plise stor",
+          "kind": "plise",
+          "pleat": null,
+          "weave": null,
+          "sheer": null,
+          "light": {
+            "file": "plise_light.png",
+            "scale": 0.8203169703483582
+          },
+          "dark": {
+            "file": "plise_dark.png",
+            "scale": 0.10696738213300705
+          },
+          "uv": {
+            "file": "plise_uv.png",
+            "scale_u": 2.3247416019439697,
+            "scale_v": 2.434339761734009
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "stor-screen",
+      "option": "stor-screen",
+      "label": "Screen stor",
+      "slot": "stor",
+      "pleat": null,
+      "pleat_label": null,
+      "weave": null,
+      "weave_label": null,
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 1.187680959701538
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.0255264043807983
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.8686772584915161
+          }
+        }
+      },
+      "zones": [
+        {
+          "id": "screen",
+          "label": "Screen stor",
+          "kind": "screen",
+          "pleat": null,
+          "weave": null,
+          "sheer": null,
+          "light": {
+            "file": "screen_light.png",
+            "scale": 0.7761797904968262
+          },
+          "dark": {
+            "file": "screen_dark.png",
+            "scale": 0.09829555451869965
+          },
+          "uv": {
+            "file": "screen_uv.png",
+            "scale_u": 2.379025936126709,
+            "scale_v": 1.7445671558380127
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "stor-silhouette",
+      "option": "stor-silhouette",
+      "label": "Silhouette stor",
+      "slot": "stor",
+      "pleat": null,
+      "pleat_label": null,
+      "weave": null,
+      "weave_label": null,
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 1.3072142601013184
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.1475332975387573
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 2.0
+          }
+        }
+      },
+      "zones": [
+        {
+          "id": "silhouette",
+          "label": "Silhouette stor",
+          "kind": "silhouette",
+          "pleat": null,
+          "weave": null,
+          "sheer": null,
+          "light": {
+            "file": "silhouette_light.png",
+            "scale": 1.3117189407348633
+          },
+          "dark": {
+            "file": "silhouette_dark.png",
+            "scale": 0.8210219144821167
+          },
+          "uv": {
+            "file": "silhouette_uv.png",
+            "scale_u": 2.4023690223693848,
+            "scale_v": 1.7994719743728638
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "stor-zebra",
+      "option": "stor-zebra",
+      "label": "Zebra stor",
+      "slot": "stor",
+      "pleat": null,
+      "pleat_label": null,
+      "weave": null,
+      "weave_label": null,
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 1.1900147199630737
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.0734816789627075
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.893850326538086
+          }
+        }
+      },
+      "zones": [
+        {
+          "id": "zebra",
+          "label": "Zebra stor",
+          "kind": "zebra",
+          "pleat": null,
+          "weave": null,
+          "sheer": null,
+          "light": {
+            "file": "zebra_light.png",
+            "scale": 0.7719823122024536
+          },
+          "dark": {
+            "file": "zebra_dark.png",
+            "scale": 0.11412857472896576
+          },
+          "uv": {
+            "file": "zebra_uv.png",
+            "scale_u": 2.326460123062134,
+            "scale_v": 1.2628268003463745
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "tul-balon__normal3__vual",
+      "option": "tul-balon",
+      "label": "Balon tül",
+      "slot": "tul",
+      "pleat": "normal3",
+      "pleat_label": "Normal pile 1:3",
+      "weave": "vual",
+      "weave_label": "Vual",
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 1.7867255210876465
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.5535043478012085
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 1.746436357498169
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.6803312301635742
+          }
+        }
+      },
+      "zones": [
+        {
+          "id": "tul",
+          "label": "Tül",
+          "kind": "tul",
+          "pleat": "normal3",
+          "weave": "vual",
+          "sheer": true,
+          "light": {
+            "file": "tul_light.png",
+            "scale": 1.1846954822540283
+          },
+          "dark": {
+            "file": "tul_dark.png",
+            "scale": 0.15067645907402039
+          },
+          "closed": {
+            "light": {
+              "file": "tul_closed_light.png",
+              "scale": 0.4813503921031952
+            },
+            "dark": {
+              "file": "tul_closed_dark.png",
+              "scale": 0.0629521831870079
+            }
+          },
+          "uv": {
+            "file": "tul_uv.png",
+            "scale_u": 9.146021842956543,
+            "scale_v": 3.0050771236419678
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "tul-denizlik__normal3__vual",
+      "option": "tul-denizlik",
+      "label": "Denizlik hizası tül",
+      "slot": "tul",
+      "pleat": "normal3",
+      "pleat_label": "Normal pile 1:3",
+      "weave": "vual",
+      "weave_label": "Vual",
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 1.6573013067245483
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.5597119331359863
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 1.9343446493148804
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.9015252590179443
+          }
+        }
+      },
+      "zones": [
+        {
+          "id": "tul",
+          "label": "Tül",
+          "kind": "tul",
+          "pleat": "normal3",
+          "weave": "vual",
+          "sheer": true,
+          "light": {
+            "file": "tul_light.png",
+            "scale": 1.3354742527008057
+          },
+          "dark": {
+            "file": "tul_dark.png",
+            "scale": 0.17460870742797852
+          },
+          "closed": {
+            "light": {
+              "file": "tul_closed_light.png",
+              "scale": 0.5476619005203247
+            },
+            "dark": {
+              "file": "tul_closed_dark.png",
+              "scale": 0.05639161914587021
+            }
+          },
+          "uv": {
+            "file": "tul_uv.png",
+            "scale_u": 8.044148445129395,
+            "scale_v": 1.9074772596359253
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "tul-japon",
+      "option": "tul-japon",
+      "label": "Japon tül",
+      "slot": "tul",
+      "pleat": null,
+      "pleat_label": null,
+      "weave": null,
+      "weave_label": null,
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 2.0
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.5788180828094482
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.774112343788147
+          }
+        }
+      },
+      "zones": [
+        {
+          "id": "tul-japon",
+          "label": "Japon tül panel",
+          "kind": "japon",
+          "pleat": null,
+          "weave": "vual",
+          "sheer": true,
+          "light": {
+            "file": "tul-japon_light.png",
+            "scale": 1.1374316215515137
+          },
+          "dark": {
+            "file": "tul-japon_dark.png",
+            "scale": 0.1443900763988495
+          },
+          "closed": {
+            "light": {
+              "file": "tul-japon_closed_light.png",
+              "scale": 0.4535408616065979
+            },
+            "dark": {
+              "file": "tul-japon_closed_dark.png",
+              "scale": 0.05592663213610649
+            }
+          },
+          "uv": {
+            "file": "tul-japon_uv.png",
+            "scale_u": 0.6739075779914856,
+            "scale_v": 2.9079649448394775
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "tul-kapali__normal3__vual",
+      "option": "tul-kapali",
+      "label": "Kapalı tül",
+      "slot": "tul",
+      "pleat": "normal3",
+      "pleat_label": "Normal pile 1:3",
+      "weave": "vual",
+      "weave_label": "Vual",
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 2.0
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.5521365404129028
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.8489964008331299
+          }
+        }
+      },
+      "zones": [
+        {
+          "id": "tul",
+          "label": "Tül",
+          "kind": "tul",
+          "pleat": "normal3",
+          "weave": "vual",
+          "sheer": true,
+          "light": {
+            "file": "tul_light.png",
+            "scale": 1.3516738414764404
+          },
+          "dark": {
+            "file": "tul_dark.png",
+            "scale": 0.1790889948606491
+          },
+          "closed": {
+            "light": {
+              "file": "tul_closed_light.png",
+              "scale": 0.5851247310638428
+            },
+            "dark": {
+              "file": "tul_closed_dark.png",
+              "scale": 0.05909864231944084
+            }
+          },
+          "uv": {
+            "file": "tul_uv.png",
+            "scale_u": 8.710851669311523,
+            "scale_v": 3.0594394207000732
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "tul-kruvaze-asimetrik__normal3__vual",
+      "option": "tul-kruvaze-asimetrik",
+      "label": "Asimetrik kruvaze tül",
+      "slot": "tul",
+      "pleat": "normal3",
+      "pleat_label": "Normal pile 1:3",
+      "weave": "vual",
+      "weave_label": "Vual",
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 2.0
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.5503640174865723
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 1.7784899473190308
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.6536957025527954
+          }
+        }
+      },
+      "zones": [
+        {
+          "id": "tul-sol",
+          "label": "Sol tül",
+          "kind": "tul",
+          "pleat": "normal3",
+          "weave": "vual",
+          "sheer": true,
+          "light": {
+            "file": "tul-sol_light.png",
+            "scale": 0.9410497546195984
+          },
+          "dark": {
+            "file": "tul-sol_dark.png",
+            "scale": 0.11982723325490952
+          },
+          "closed": {
+            "light": {
+              "file": "tul-sol_closed_light.png",
+              "scale": 0.4750362038612366
+            },
+            "dark": {
+              "file": "tul-sol_closed_dark.png",
+              "scale": 0.06303484737873077
+            }
+          },
+          "uv": {
+            "file": "tul-sol_uv.png",
+            "scale_u": 4.767955780029297,
+            "scale_v": 2.9057836532592773
+          }
+        },
+        {
+          "id": "tul-sag",
+          "label": "Sağ tül",
+          "kind": "tul",
+          "pleat": "normal3",
+          "weave": "vual",
+          "sheer": true,
+          "light": {
+            "file": "tul-sag_light.png",
+            "scale": 1.3634752035140991
+          },
+          "dark": {
+            "file": "tul-sag_dark.png",
+            "scale": 0.15068873763084412
+          },
+          "closed": {
+            "light": {
+              "file": "tul-sag_closed_light.png",
+              "scale": 0.39491814374923706
+            },
+            "dark": {
+              "file": "tul-sag_closed_dark.png",
+              "scale": 0.04491139203310013
+            }
+          },
+          "uv": {
+            "file": "tul-sag_uv.png",
+            "scale_u": 5.2983717918396,
+            "scale_v": 3.005643367767334
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "tul-kruvaze__normal3__vual",
+      "option": "tul-kruvaze",
+      "label": "Kruvaze (çapraz) tül",
+      "slot": "tul",
+      "pleat": "normal3",
+      "pleat_label": "Normal pile 1:3",
+      "weave": "vual",
+      "weave_label": "Vual",
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 1.8031941652297974
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.5524011850357056
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 1.7362639904022217
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.66367506980896
+          }
+        }
+      },
+      "zones": [
+        {
+          "id": "tul-sol",
+          "label": "Sol tül",
+          "kind": "tul",
+          "pleat": "normal3",
+          "weave": "vual",
+          "sheer": true,
+          "light": {
+            "file": "tul-sol_light.png",
+            "scale": 0.989403247833252
+          },
+          "dark": {
+            "file": "tul-sol_dark.png",
+            "scale": 0.13900908827781677
+          },
+          "closed": {
+            "light": {
+              "file": "tul-sol_closed_light.png",
+              "scale": 0.5107909440994263
+            },
+            "dark": {
+              "file": "tul-sol_closed_dark.png",
+              "scale": 0.0670277327299118
+            }
+          },
+          "uv": {
+            "file": "tul-sol_uv.png",
+            "scale_u": 5.06176233291626,
+            "scale_v": 2.9285261631011963
+          }
+        },
+        {
+          "id": "tul-sag",
+          "label": "Sağ tül",
+          "kind": "tul",
+          "pleat": "normal3",
+          "weave": "vual",
+          "sheer": true,
+          "light": {
+            "file": "tul-sag_light.png",
+            "scale": 1.0242030620574951
+          },
+          "dark": {
+            "file": "tul-sag_dark.png",
+            "scale": 0.13649067282676697
+          },
+          "closed": {
+            "light": {
+              "file": "tul-sag_closed_light.png",
+              "scale": 0.30172833800315857
+            },
+            "dark": {
+              "file": "tul-sag_closed_dark.png",
+              "scale": 0.033869028091430664
+            }
+          },
+          "uv": {
+            "file": "tul-sag_uv.png",
+            "scale_u": 4.9866042137146,
+            "scale_v": 2.9904727935791016
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "tul-kusakli__normal3__vual",
+      "option": "tul-kusakli",
+      "label": "Kuşaklı tül",
+      "slot": "tul",
+      "pleat": "normal3",
+      "pleat_label": "Normal pile 1:3",
+      "weave": "vual",
+      "weave_label": "Vual",
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 2.0
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.553315281867981
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.7337061166763306
+          }
+        }
+      },
+      "zones": [
+        {
+          "id": "tul-sol",
+          "label": "Sol tül",
+          "kind": "tul",
+          "pleat": "normal3",
+          "weave": "vual",
+          "sheer": true,
+          "light": {
+            "file": "tul-sol_light.png",
+            "scale": 1.0540595054626465
+          },
+          "dark": {
+            "file": "tul-sol_dark.png",
+            "scale": 0.1401273012161255
+          },
+          "closed": {
+            "light": {
+              "file": "tul-sol_closed_light.png",
+              "scale": 0.5773169994354248
+            },
+            "dark": {
+              "file": "tul-sol_closed_dark.png",
+              "scale": 0.05539432168006897
+            }
+          },
+          "uv": {
+            "file": "tul-sol_uv.png",
+            "scale_u": 3.200032949447632,
+            "scale_v": 2.953705310821533
+          }
+        },
+        {
+          "id": "tul-sag",
+          "label": "Sağ tül",
+          "kind": "tul",
+          "pleat": "normal3",
+          "weave": "vual",
+          "sheer": true,
+          "light": {
+            "file": "tul-sag_light.png",
+            "scale": 1.7848317623138428
+          },
+          "dark": {
+            "file": "tul-sag_dark.png",
+            "scale": 0.1768406480550766
+          },
+          "closed": {
+            "light": {
+              "file": "tul-sag_closed_light.png",
+              "scale": 0.38458606600761414
+            },
+            "dark": {
+              "file": "tul-sag_closed_dark.png",
+              "scale": 0.037459634244441986
+            }
+          },
+          "uv": {
+            "file": "tul-sag_uv.png",
+            "scale_u": 3.472673177719116,
+            "scale_v": 2.970543384552002
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "tul-ortadan-acik__normal3__vual",
+      "option": "tul-ortadan-acik",
+      "label": "Ortadan açık tül",
+      "slot": "tul",
+      "pleat": "normal3",
+      "pleat_label": "Normal pile 1:3",
+      "weave": "vual",
+      "weave_label": "Vual",
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 2.0
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.5496084690093994
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.8169994354248047
+          }
+        }
+      },
+      "zones": [
+        {
+          "id": "tul-sol",
+          "label": "Sol tül",
+          "kind": "tul",
+          "pleat": "normal3",
+          "weave": "vual",
+          "sheer": true,
+          "light": {
+            "file": "tul-sol_light.png",
+            "scale": 1.2990748882293701
+          },
+          "dark": {
+            "file": "tul-sol_dark.png",
+            "scale": 0.16580131649971008
+          },
+          "closed": {
+            "light": {
+              "file": "tul-sol_closed_light.png",
+              "scale": 0.5312852263450623
+            },
+            "dark": {
+              "file": "tul-sol_closed_dark.png",
+              "scale": 0.057020917534828186
+            }
+          },
+          "uv": {
+            "file": "tul-sol_uv.png",
+            "scale_u": 3.554898738861084,
+            "scale_v": 2.932361125946045
+          }
+        },
+        {
+          "id": "tul-sag",
+          "label": "Sağ tül",
+          "kind": "tul",
+          "pleat": "normal3",
+          "weave": "vual",
+          "sheer": true,
+          "light": {
+            "file": "tul-sag_light.png",
+            "scale": 1.368607997894287
+          },
+          "dark": {
+            "file": "tul-sag_dark.png",
+            "scale": 0.16780929267406464
+          },
+          "closed": {
+            "light": {
+              "file": "tul-sag_closed_light.png",
+              "scale": 0.3125562071800232
+            },
+            "dark": {
+              "file": "tul-sag_closed_dark.png",
+              "scale": 0.03171534091234207
+            }
+          },
+          "uv": {
+            "file": "tul-sag_uv.png",
+            "scale_u": 3.643270492553711,
+            "scale_v": 2.9222559928894043
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "tul-plise",
+      "option": "tul-plise",
+      "label": "Plise tül",
+      "slot": "tul",
+      "pleat": null,
+      "pleat_label": null,
+      "weave": null,
+      "weave_label": null,
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 1.4164865016937256
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.0493183135986328
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 1.953827977180481
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.8326665163040161
+          }
+        }
+      },
+      "zones": [
+        {
+          "id": "tul-plise",
+          "label": "Plise tül",
+          "kind": "plise",
+          "pleat": null,
+          "weave": "vual",
+          "sheer": true,
+          "light": {
+            "file": "tul-plise_light.png",
+            "scale": 1.6019515991210938
+          },
+          "dark": {
+            "file": "tul-plise_dark.png",
+            "scale": 0.2194570004940033
+          },
+          "closed": {
+            "light": {
+              "file": "tul-plise_closed_light.png",
+              "scale": 0.5292559862136841
+            },
+            "dark": {
+              "file": "tul-plise_closed_dark.png",
+              "scale": 0.047895923256874084
+            }
+          },
+          "uv": {
+            "file": "tul-plise_uv.png",
+            "scale_u": 2.2574944496154785,
+            "scale_v": 2.485992431640625
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    },
+    {
+      "key": "tul-tek-kanat__normal3__vual",
+      "option": "tul-tek-kanat",
+      "label": "Tek kanat tül",
+      "slot": "tul",
+      "pleat": "normal3",
+      "pleat_label": "Normal pile 1:3",
+      "weave": "vual",
+      "weave_label": "Vual",
+      "trim": null,
+      "shadow": {
+        "light": {
+          "file": "shadow_light.png",
+          "scale": 1.6830800771713257
+        },
+        "dark": {
+          "file": "shadow_dark.png",
+          "scale": 1.5742419958114624
+        }
+      },
+      "room_shadow": {
+        "sun": {
+          "light": {
+            "file": "sun_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sun_dark.png",
+            "scale": 2.0
+          }
+        },
+        "rest": {
+          "light": {
+            "file": "rest_light.png",
+            "scale": 1.9476487636566162
+          },
+          "dark": {
+            "file": "rest_dark.png",
+            "scale": 1.7699894905090332
+          }
+        }
+      },
+      "zones": [
+        {
+          "id": "tul-sag",
+          "label": "Tül",
+          "kind": "tul",
+          "pleat": "normal3",
+          "weave": "vual",
+          "sheer": true,
+          "light": {
+            "file": "tul-sag_light.png",
+            "scale": 1.1769981384277344
+          },
+          "dark": {
+            "file": "tul-sag_dark.png",
+            "scale": 0.12942752242088318
+          },
+          "closed": {
+            "light": {
+              "file": "tul-sag_closed_light.png",
+              "scale": 0.35585564374923706
+            },
+            "dark": {
+              "file": "tul-sag_closed_dark.png",
+              "scale": 0.03899415582418442
+            }
+          },
+          "uv": {
+            "file": "tul-sag_uv.png",
+            "scale_u": 6.81804895401001,
+            "scale_v": 3.1729800701141357
+          }
+        }
+      ],
+      "preview": "onizleme.png"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "key": "stor-blackout",
+  "option": "stor-blackout",
+  "label": "Blackout stor",
+  "slot": "stor",
+  "pleat": null,
+  "pleat_label": null,
+  "weave": null,
+  "weave_label": null,
+  "trim": null,
+  "shadow": {
+    "light": {
+      "file": "shadow_light.png",
+      "scale": 1.1538448333740234
+    },
+    "dark": {
+      "file": "shadow_dark.png",
+      "scale": 1.025756597518921
+    }
+  },
+  "room_shadow": {
+    "sun": {
+      "light": {
+        "file": "sun_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "sun_dark.png",
+        "scale": 2.0
+      }
+    },
+    "rest": {
+      "light": {
+        "file": "rest_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "rest_dark.png",
+        "scale": 1.9777088165283203
+      }
+    }
+  },
+  "transmittance": {
+    "light": "tau_light.png",
+    "dark": "tau_dark.png"
+  },
+  "zones": [
+    {
+      "id": "blackout",
+      "label": "Blackout stor",
+      "kind": "blackout",
+      "pleat": null,
+      "weave": null,
+      "sheer": null,
+      "light": {
+        "file": "blackout_light.png",
+        "scale": 0.7626835703849792
+      },
+      "dark": {
+        "file": "blackout_dark.png",
+        "scale": 0.13462969660758972
+      },
+      "uv": {
+        "file": "blackout_uv.png",
+        "scale_u": 2.3790290355682373,
+        "scale_v": 1.744565486907959
+      }
+    }
+  ],
+  "preview": "onizleme.png"
+}

@@ -1,0 +1,88 @@
+{
+  "key": "stor-duble",
+  "option": "stor-duble",
+  "label": "Duble stor",
+  "slot": "stor",
+  "pleat": null,
+  "pleat_label": null,
+  "weave": null,
+  "weave_label": null,
+  "trim": null,
+  "shadow": {
+    "light": {
+      "file": "shadow_light.png",
+      "scale": 1.8708046674728394
+    },
+    "dark": {
+      "file": "shadow_dark.png",
+      "scale": 1.1246702671051025
+    }
+  },
+  "room_shadow": {
+    "sun": {
+      "light": {
+        "file": "sun_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "sun_dark.png",
+        "scale": 2.0
+      }
+    },
+    "rest": {
+      "light": {
+        "file": "rest_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "rest_dark.png",
+        "scale": 1.8635247945785522
+      }
+    }
+  },
+  "zones": [
+    {
+      "id": "duble-arka",
+      "label": "Arka (karartma)",
+      "kind": "blackout",
+      "pleat": null,
+      "weave": null,
+      "sheer": null,
+      "light": {
+        "file": "duble-arka_light.png",
+        "scale": 0.7381621599197388
+      },
+      "dark": {
+        "file": "duble-arka_dark.png",
+        "scale": 0.09857027232646942
+      },
+      "uv": {
+        "file": "duble-arka_uv.png",
+        "scale_u": 2.88187575340271,
+        "scale_v": 0.9567258358001709
+      }
+    },
+    {
+      "id": "duble-on",
+      "label": "Ön (screen)",
+      "kind": "screen",
+      "pleat": null,
+      "weave": null,
+      "sheer": null,
+      "light": {
+        "file": "duble-on_light.png",
+        "scale": 0.8658179640769958
+      },
+      "dark": {
+        "file": "duble-on_dark.png",
+        "scale": 0.1050683781504631
+      },
+      "uv": {
+        "file": "duble-on_uv.png",
+        "scale_u": 2.2147467136383057,
+        "scale_v": 1.7760335206985474
+      }
+    }
+  ],
+  "preview": "onizleme.png"
+}

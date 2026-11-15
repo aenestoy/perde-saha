@@ -1,0 +1,67 @@
+{
+  "key": "stor-silhouette",
+  "option": "stor-silhouette",
+  "label": "Silhouette stor",
+  "slot": "stor",
+  "pleat": null,
+  "pleat_label": null,
+  "weave": null,
+  "weave_label": null,
+  "trim": null,
+  "shadow": {
+    "light": {
+      "file": "shadow_light.png",
+      "scale": 1.3072142601013184
+    },
+    "dark": {
+      "file": "shadow_dark.png",
+      "scale": 1.1475332975387573
+    }
+  },
+  "room_shadow": {
+    "sun": {
+      "light": {
+        "file": "sun_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "sun_dark.png",
+        "scale": 2.0
+      }
+    },
+    "rest": {
+      "light": {
+        "file": "rest_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "rest_dark.png",
+        "scale": 2.0
+      }
+    }
+  },
+  "zones": [
+    {
+      "id": "silhouette",
+      "label": "Silhouette stor",
+      "kind": "silhouette",
+      "pleat": null,
+      "weave": null,
+      "sheer": null,
+      "light": {
+        "file": "silhouette_light.png",
+        "scale": 1.3117189407348633
+      },
+      "dark": {
+        "file": "silhouette_dark.png",
+        "scale": 0.8210219144821167
+      },
+      "uv": {
+        "file": "silhouette_uv.png",
+        "scale_u": 2.4023690223693848,
+        "scale_v": 1.7994719743728638
+      }
+    }
+  ],
+  "preview": "onizleme.png"
+}

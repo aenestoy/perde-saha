@@ -1,0 +1,88 @@
+{
+  "key": "fon-cift-kanat__normal3",
+  "option": "fon-cift-kanat",
+  "label": "Çift kanat fon",
+  "slot": "fon",
+  "pleat": "normal3",
+  "pleat_label": "Normal pile 1:3",
+  "weave": null,
+  "weave_label": null,
+  "trim": null,
+  "shadow": {
+    "light": {
+      "file": "shadow_light.png",
+      "scale": 2.0
+    },
+    "dark": {
+      "file": "shadow_dark.png",
+      "scale": 1.6076176166534424
+    }
+  },
+  "room_shadow": {
+    "sun": {
+      "light": {
+        "file": "sun_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "sun_dark.png",
+        "scale": 2.0
+      }
+    },
+    "rest": {
+      "light": {
+        "file": "rest_light.png",
+        "scale": 1.9049237966537476
+      },
+      "dark": {
+        "file": "rest_dark.png",
+        "scale": 1.7988866567611694
+      }
+    }
+  },
+  "zones": [
+    {
+      "id": "fon-sol",
+      "label": "Sol fon",
+      "kind": "fon",
+      "pleat": "normal3",
+      "weave": null,
+      "sheer": false,
+      "light": {
+        "file": "fon-sol_light.png",
+        "scale": 1.0104029178619385
+      },
+      "dark": {
+        "file": "fon-sol_dark.png",
+        "scale": 0.22486311197280884
+      },
+      "uv": {
+        "file": "fon-sol_uv.png",
+        "scale_u": 2.36702561378479,
+        "scale_v": 2.874218702316284
+      }
+    },
+    {
+      "id": "fon-sag",
+      "label": "Sağ fon",
+      "kind": "fon",
+      "pleat": "normal3",
+      "weave": null,
+      "sheer": false,
+      "light": {
+        "file": "fon-sag_light.png",
+        "scale": 0.6176871061325073
+      },
+      "dark": {
+        "file": "fon-sag_dark.png",
+        "scale": 0.11160095036029816
+      },
+      "uv": {
+        "file": "fon-sag_uv.png",
+        "scale_u": 2.1745848655700684,
+        "scale_v": 2.9628148078918457
+      }
+    }
+  ],
+  "preview": "onizleme.png"
+}

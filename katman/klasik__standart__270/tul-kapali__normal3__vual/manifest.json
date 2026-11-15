@@ -1,0 +1,77 @@
+{
+  "key": "tul-kapali__normal3__vual",
+  "option": "tul-kapali",
+  "label": "Kapalı tül",
+  "slot": "tul",
+  "pleat": "normal3",
+  "pleat_label": "Normal pile 1:3",
+  "weave": "vual",
+  "weave_label": "Vual",
+  "trim": null,
+  "shadow": {
+    "light": {
+      "file": "shadow_light.png",
+      "scale": 2.0
+    },
+    "dark": {
+      "file": "shadow_dark.png",
+      "scale": 1.5521365404129028
+    }
+  },
+  "room_shadow": {
+    "sun": {
+      "light": {
+        "file": "sun_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "sun_dark.png",
+        "scale": 2.0
+      }
+    },
+    "rest": {
+      "light": {
+        "file": "rest_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "rest_dark.png",
+        "scale": 1.8489964008331299
+      }
+    }
+  },
+  "zones": [
+    {
+      "id": "tul",
+      "label": "Tül",
+      "kind": "tul",
+      "pleat": "normal3",
+      "weave": "vual",
+      "sheer": true,
+      "light": {
+        "file": "tul_light.png",
+        "scale": 1.3516738414764404
+      },
+      "dark": {
+        "file": "tul_dark.png",
+        "scale": 0.1790889948606491
+      },
+      "closed": {
+        "light": {
+          "file": "tul_closed_light.png",
+          "scale": 0.5851247310638428
+        },
+        "dark": {
+          "file": "tul_closed_dark.png",
+          "scale": 0.05909864231944084
+        }
+      },
+      "uv": {
+        "file": "tul_uv.png",
+        "scale_u": 8.710851669311523,
+        "scale_v": 3.0594394207000732
+      }
+    }
+  ],
+  "preview": "onizleme.png"
+}

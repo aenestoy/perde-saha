@@ -1,0 +1,67 @@
+{
+  "key": "fon-tek-kanat__normal3",
+  "option": "fon-tek-kanat",
+  "label": "Tek kanat fon",
+  "slot": "fon",
+  "pleat": "normal3",
+  "pleat_label": "Normal pile 1:3",
+  "weave": null,
+  "weave_label": null,
+  "trim": null,
+  "shadow": {
+    "light": {
+      "file": "shadow_light.png",
+      "scale": 2.0
+    },
+    "dark": {
+      "file": "shadow_dark.png",
+      "scale": 1.653215765953064
+    }
+  },
+  "room_shadow": {
+    "sun": {
+      "light": {
+        "file": "sun_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "sun_dark.png",
+        "scale": 2.0
+      }
+    },
+    "rest": {
+      "light": {
+        "file": "rest_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "rest_dark.png",
+        "scale": 1.8260976076126099
+      }
+    }
+  },
+  "zones": [
+    {
+      "id": "fon-sag",
+      "label": "Sağ fon",
+      "kind": "fon",
+      "pleat": "normal3",
+      "weave": null,
+      "sheer": false,
+      "light": {
+        "file": "fon-sag_light.png",
+        "scale": 0.648848295211792
+      },
+      "dark": {
+        "file": "fon-sag_dark.png",
+        "scale": 0.1260969340801239
+      },
+      "uv": {
+        "file": "fon-sag_uv.png",
+        "scale_u": 2.310577392578125,
+        "scale_v": 2.9159553050994873
+      }
+    }
+  ],
+  "preview": "onizleme.png"
+}

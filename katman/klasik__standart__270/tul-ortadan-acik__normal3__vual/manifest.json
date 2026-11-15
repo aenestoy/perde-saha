@@ -1,0 +1,108 @@
+{
+  "key": "tul-ortadan-acik__normal3__vual",
+  "option": "tul-ortadan-acik",
+  "label": "Ortadan açık tül",
+  "slot": "tul",
+  "pleat": "normal3",
+  "pleat_label": "Normal pile 1:3",
+  "weave": "vual",
+  "weave_label": "Vual",
+  "trim": null,
+  "shadow": {
+    "light": {
+      "file": "shadow_light.png",
+      "scale": 2.0
+    },
+    "dark": {
+      "file": "shadow_dark.png",
+      "scale": 1.5496084690093994
+    }
+  },
+  "room_shadow": {
+    "sun": {
+      "light": {
+        "file": "sun_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "sun_dark.png",
+        "scale": 2.0
+      }
+    },
+    "rest": {
+      "light": {
+        "file": "rest_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "rest_dark.png",
+        "scale": 1.8169994354248047
+      }
+    }
+  },
+  "zones": [
+    {
+      "id": "tul-sol",
+      "label": "Sol tül",
+      "kind": "tul",
+      "pleat": "normal3",
+      "weave": "vual",
+      "sheer": true,
+      "light": {
+        "file": "tul-sol_light.png",
+        "scale": 1.2990748882293701
+      },
+      "dark": {
+        "file": "tul-sol_dark.png",
+        "scale": 0.16580131649971008
+      },
+      "closed": {
+        "light": {
+          "file": "tul-sol_closed_light.png",
+          "scale": 0.5312852263450623
+        },
+        "dark": {
+          "file": "tul-sol_closed_dark.png",
+          "scale": 0.057020917534828186
+        }
+      },
+      "uv": {
+        "file": "tul-sol_uv.png",
+        "scale_u": 3.554898738861084,
+        "scale_v": 2.932361125946045
+      }
+    },
+    {
+      "id": "tul-sag",
+      "label": "Sağ tül",
+      "kind": "tul",
+      "pleat": "normal3",
+      "weave": "vual",
+      "sheer": true,
+      "light": {
+        "file": "tul-sag_light.png",
+        "scale": 1.368607997894287
+      },
+      "dark": {
+        "file": "tul-sag_dark.png",
+        "scale": 0.16780929267406464
+      },
+      "closed": {
+        "light": {
+          "file": "tul-sag_closed_light.png",
+          "scale": 0.3125562071800232
+        },
+        "dark": {
+          "file": "tul-sag_closed_dark.png",
+          "scale": 0.03171534091234207
+        }
+      },
+      "uv": {
+        "file": "tul-sag_uv.png",
+        "scale_u": 3.643270492553711,
+        "scale_v": 2.9222559928894043
+      }
+    }
+  ],
+  "preview": "onizleme.png"
+}

@@ -1,0 +1,77 @@
+{
+  "key": "tul-japon",
+  "option": "tul-japon",
+  "label": "Japon tül",
+  "slot": "tul",
+  "pleat": null,
+  "pleat_label": null,
+  "weave": null,
+  "weave_label": null,
+  "trim": null,
+  "shadow": {
+    "light": {
+      "file": "shadow_light.png",
+      "scale": 2.0
+    },
+    "dark": {
+      "file": "shadow_dark.png",
+      "scale": 1.5788180828094482
+    }
+  },
+  "room_shadow": {
+    "sun": {
+      "light": {
+        "file": "sun_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "sun_dark.png",
+        "scale": 2.0
+      }
+    },
+    "rest": {
+      "light": {
+        "file": "rest_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "rest_dark.png",
+        "scale": 1.774112343788147
+      }
+    }
+  },
+  "zones": [
+    {
+      "id": "tul-japon",
+      "label": "Japon tül panel",
+      "kind": "japon",
+      "pleat": null,
+      "weave": "vual",
+      "sheer": true,
+      "light": {
+        "file": "tul-japon_light.png",
+        "scale": 1.1374316215515137
+      },
+      "dark": {
+        "file": "tul-japon_dark.png",
+        "scale": 0.1443900763988495
+      },
+      "closed": {
+        "light": {
+          "file": "tul-japon_closed_light.png",
+          "scale": 0.4535408616065979
+        },
+        "dark": {
+          "file": "tul-japon_closed_dark.png",
+          "scale": 0.05592663213610649
+        }
+      },
+      "uv": {
+        "file": "tul-japon_uv.png",
+        "scale_u": 0.6739075779914856,
+        "scale_v": 2.9079649448394775
+      }
+    }
+  ],
+  "preview": "onizleme.png"
+}

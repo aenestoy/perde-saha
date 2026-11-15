@@ -1,0 +1,67 @@
+{
+  "key": "bando",
+  "option": "bando",
+  "label": "Bando",
+  "slot": "bando",
+  "pleat": null,
+  "pleat_label": null,
+  "weave": null,
+  "weave_label": null,
+  "trim": null,
+  "shadow": {
+    "light": {
+      "file": "shadow_light.png",
+      "scale": 1.5342206954956055
+    },
+    "dark": {
+      "file": "shadow_dark.png",
+      "scale": 1.059509515762329
+    }
+  },
+  "room_shadow": {
+    "sun": {
+      "light": {
+        "file": "sun_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "sun_dark.png",
+        "scale": 2.0
+      }
+    },
+    "rest": {
+      "light": {
+        "file": "rest_light.png",
+        "scale": 1.5767490863800049
+      },
+      "dark": {
+        "file": "rest_dark.png",
+        "scale": 1.146106243133545
+      }
+    }
+  },
+  "zones": [
+    {
+      "id": "bando",
+      "label": "Bando",
+      "kind": "bando",
+      "pleat": null,
+      "weave": null,
+      "sheer": null,
+      "light": {
+        "file": "bando_light.png",
+        "scale": 0.7050487399101257
+      },
+      "dark": {
+        "file": "bando_dark.png",
+        "scale": 0.12465240806341171
+      },
+      "uv": {
+        "file": "bando_uv.png",
+        "scale_u": 3.2192814350128174,
+        "scale_v": 0.2974153459072113
+      }
+    }
+  ],
+  "preview": "onizleme.png"
+}

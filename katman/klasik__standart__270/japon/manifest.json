@@ -1,0 +1,67 @@
+{
+  "key": "japon",
+  "option": "japon",
+  "label": "Japon perde",
+  "slot": "fon",
+  "pleat": null,
+  "pleat_label": null,
+  "weave": null,
+  "weave_label": null,
+  "trim": null,
+  "shadow": {
+    "light": {
+      "file": "shadow_light.png",
+      "scale": 2.0
+    },
+    "dark": {
+      "file": "shadow_dark.png",
+      "scale": 1.6065216064453125
+    }
+  },
+  "room_shadow": {
+    "sun": {
+      "light": {
+        "file": "sun_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "sun_dark.png",
+        "scale": 2.0
+      }
+    },
+    "rest": {
+      "light": {
+        "file": "rest_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "rest_dark.png",
+        "scale": 1.915347933769226
+      }
+    }
+  },
+  "zones": [
+    {
+      "id": "japon",
+      "label": "Japon panel",
+      "kind": "japon",
+      "pleat": null,
+      "weave": null,
+      "sheer": null,
+      "light": {
+        "file": "japon_light.png",
+        "scale": 0.7389876842498779
+      },
+      "dark": {
+        "file": "japon_dark.png",
+        "scale": 0.12126683443784714
+      },
+      "uv": {
+        "file": "japon_uv.png",
+        "scale_u": 0.6845948100090027,
+        "scale_v": 2.9402360916137695
+      }
+    }
+  ],
+  "preview": "onizleme.png"
+}
