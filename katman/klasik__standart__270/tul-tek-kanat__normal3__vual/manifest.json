@@ -11,11 +11,11 @@
   "shadow": {
     "light": {
       "file": "shadow_light.png",
-      "scale": 1.6830800771713257
+      "scale": 1.678027629852295
     },
     "dark": {
       "file": "shadow_dark.png",
-      "scale": 1.5742419958114624
+      "scale": 1.469179630279541
     }
   },
   "room_shadow": {
@@ -32,11 +32,11 @@
     "rest": {
       "light": {
         "file": "rest_light.png",
-        "scale": 1.9476487636566162
+        "scale": 1.828910231590271
       },
       "dark": {
         "file": "rest_dark.png",
-        "scale": 1.7699894905090332
+        "scale": 1.5075852870941162
       }
     }
   },

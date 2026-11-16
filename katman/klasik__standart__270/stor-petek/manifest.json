@@ -11,32 +11,32 @@
   "shadow": {
     "light": {
       "file": "shadow_light.png",
-      "scale": 1.1388965845108032
+      "scale": 1.1205068826675415
     },
     "dark": {
       "file": "shadow_dark.png",
-      "scale": 1.0243284702301025
+      "scale": 1.016539216041565
     }
   },
   "room_shadow": {
     "sun": {
       "light": {
         "file": "sun_light.png",
-        "scale": 2.0
+        "scale": 1.96959388256073
       },
       "dark": {
         "file": "sun_dark.png",
-        "scale": 2.0
+        "scale": 0.6409621834754944
       }
     },
     "rest": {
       "light": {
         "file": "rest_light.png",
-        "scale": 2.0
+        "scale": 1.2616946697235107
       },
       "dark": {
         "file": "rest_dark.png",
-        "scale": 1.972610592842102
+        "scale": 1.1945910453796387
       }
     }
   },

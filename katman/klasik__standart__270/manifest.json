@@ -60,32 +60,32 @@
       "shadow": {
         "light": {
           "file": "shadow_light.png",
-          "scale": 1.5342206954956055
+          "scale": 1.5202585458755493
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.059509515762329
+          "scale": 1.0315505266189575
         }
       },
       "room_shadow": {
         "sun": {
           "light": {
             "file": "sun_light.png",
-            "scale": 2.0
+            "scale": 1.996173620223999
           },
           "dark": {
             "file": "sun_dark.png",
-            "scale": 2.0
+            "scale": 1.9463131427764893
           }
         },
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.5767490863800049
+            "scale": 1.5468995571136475
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.146106243133545
+            "scale": 1.0332002639770508
           }
         }
       },
@@ -131,7 +131,7 @@
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.6076176166534424
+          "scale": 1.5048449039459229
         }
       },
       "room_shadow": {
@@ -148,11 +148,11 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.9049237966537476
+            "scale": 1.7605384588241577
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.7988866567611694
+            "scale": 1.5313776731491089
           }
         }
       },
@@ -219,7 +219,7 @@
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.6548871994018555
+          "scale": 1.536845088005066
         }
       },
       "room_shadow": {
@@ -236,11 +236,11 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 2.0
+            "scale": 1.9368889331817627
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.8337359428405762
+            "scale": 1.5703719854354858
           }
         }
       },
@@ -286,7 +286,7 @@
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.6042934656143188
+          "scale": 1.5003756284713745
         }
       },
       "room_shadow": {
@@ -303,11 +303,11 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 2.0
+            "scale": 1.6805033683776855
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.7998130321502686
+            "scale": 1.5304228067398071
           }
         }
       },
@@ -353,7 +353,7 @@
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.6107653379440308
+          "scale": 1.507323980331421
         }
       },
       "room_shadow": {
@@ -370,11 +370,11 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.863648772239685
+            "scale": 1.759229302406311
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.6845289468765259
+            "scale": 1.5320377349853516
           }
         }
       },
@@ -441,7 +441,7 @@
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.653215765953064
+          "scale": 1.5369277000427246
         }
       },
       "room_shadow": {
@@ -458,11 +458,11 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 2.0
+            "scale": 1.7575076818466187
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.8260976076126099
+            "scale": 1.5688737630844116
           }
         }
       },
@@ -508,7 +508,7 @@
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.6065216064453125
+          "scale": 1.5170472860336304
         }
       },
       "room_shadow": {
@@ -525,11 +525,11 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 2.0
+            "scale": 1.991114616394043
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.915347933769226
+            "scale": 1.5441943407058716
           }
         }
       },
@@ -571,11 +571,11 @@
       "shadow": {
         "light": {
           "file": "shadow_light.png",
-          "scale": 1.1478742361068726
+          "scale": 1.1263078451156616
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.055311918258667
+          "scale": 1.0172882080078125
         }
       },
       "room_shadow": {
@@ -586,17 +586,17 @@
           },
           "dark": {
             "file": "sun_dark.png",
-            "scale": 2.0
+            "scale": 1.333748698234558
           }
         },
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 2.0
+            "scale": 1.2581113576889038
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.9903740882873535
+            "scale": 1.1872859001159668
           }
         }
       },
@@ -638,11 +638,11 @@
       "shadow": {
         "light": {
           "file": "shadow_light.png",
-          "scale": 1.1538448333740234
+          "scale": 1.1521522998809814
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.025756597518921
+          "scale": 1.018293023109436
         }
       },
       "room_shadow": {
@@ -653,17 +653,17 @@
           },
           "dark": {
             "file": "sun_dark.png",
-            "scale": 2.0
+            "scale": 0.7691811323165894
           }
         },
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 2.0
+            "scale": 1.2695212364196777
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.9777088165283203
+            "scale": 1.1995848417282104
           }
         }
       },
@@ -709,11 +709,11 @@
       "shadow": {
         "light": {
           "file": "shadow_light.png",
-          "scale": 1.8708046674728394
+          "scale": 1.8396073579788208
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.1246702671051025
+          "scale": 1.0266729593276978
         }
       },
       "room_shadow": {
@@ -724,17 +724,17 @@
           },
           "dark": {
             "file": "sun_dark.png",
-            "scale": 2.0
+            "scale": 1.9117069244384766
           }
         },
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 2.0
+            "scale": 1.9998220205307007
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.8635247945785522
+            "scale": 1.1806938648223877
           }
         }
       },
@@ -797,11 +797,11 @@
       "shadow": {
         "light": {
           "file": "shadow_light.png",
-          "scale": 1.2064332962036133
+          "scale": 1.2045565843582153
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.025170922279358
+          "scale": 1.0180331468582153
         }
       },
       "room_shadow": {
@@ -812,17 +812,17 @@
           },
           "dark": {
             "file": "sun_dark.png",
-            "scale": 2.0
+            "scale": 1.2451084852218628
           }
         },
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 2.0
+            "scale": 1.2715874910354614
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.9750736951828003
+            "scale": 1.2002631425857544
           }
         }
       },
@@ -868,32 +868,32 @@
       "shadow": {
         "light": {
           "file": "shadow_light.png",
-          "scale": 1.1388965845108032
+          "scale": 1.1205068826675415
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.0243284702301025
+          "scale": 1.016539216041565
         }
       },
       "room_shadow": {
         "sun": {
           "light": {
             "file": "sun_light.png",
-            "scale": 2.0
+            "scale": 1.96959388256073
           },
           "dark": {
             "file": "sun_dark.png",
-            "scale": 2.0
+            "scale": 0.6409621834754944
           }
         },
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 2.0
+            "scale": 1.2616946697235107
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.972610592842102
+            "scale": 1.1945910453796387
           }
         }
       },
@@ -935,11 +935,11 @@
       "shadow": {
         "light": {
           "file": "shadow_light.png",
-          "scale": 1.2027409076690674
+          "scale": 1.179758071899414
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.0239523649215698
+          "scale": 1.0165852308273315
         }
       },
       "room_shadow": {
@@ -950,17 +950,17 @@
           },
           "dark": {
             "file": "sun_dark.png",
-            "scale": 2.0
+            "scale": 0.8780527114868164
           }
         },
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 2.0
+            "scale": 1.2756260633468628
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.9697492122650146
+            "scale": 1.19595468044281
           }
         }
       },
@@ -1002,11 +1002,11 @@
       "shadow": {
         "light": {
           "file": "shadow_light.png",
-          "scale": 1.187680959701538
+          "scale": 1.1860467195510864
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.0255264043807983
+          "scale": 1.0184181928634644
         }
       },
       "room_shadow": {
@@ -1017,17 +1017,17 @@
           },
           "dark": {
             "file": "sun_dark.png",
-            "scale": 2.0
+            "scale": 1.914628028869629
           }
         },
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 2.0
+            "scale": 1.255771279335022
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.8686772584915161
+            "scale": 1.1851162910461426
           }
         }
       },
@@ -1069,11 +1069,11 @@
       "shadow": {
         "light": {
           "file": "shadow_light.png",
-          "scale": 1.3072142601013184
+          "scale": 1.302038550376892
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.1475332975387573
+          "scale": 1.0951366424560547
         }
       },
       "room_shadow": {
@@ -1090,11 +1090,11 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 2.0
+            "scale": 1.2857778072357178
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 2.0
+            "scale": 1.2114646434783936
           }
         }
       },
@@ -1136,11 +1136,11 @@
       "shadow": {
         "light": {
           "file": "shadow_light.png",
-          "scale": 1.1900147199630737
+          "scale": 1.1891652345657349
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.0734816789627075
+          "scale": 1.0218585729599
         }
       },
       "room_shadow": {
@@ -1151,17 +1151,17 @@
           },
           "dark": {
             "file": "sun_dark.png",
-            "scale": 2.0
+            "scale": 1.9113808870315552
           }
         },
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 2.0
+            "scale": 1.2294034957885742
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.893850326538086
+            "scale": 1.1842596530914307
           }
         }
       },
@@ -1203,11 +1203,11 @@
       "shadow": {
         "light": {
           "file": "shadow_light.png",
-          "scale": 1.7867255210876465
+          "scale": 1.6728935241699219
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.5535043478012085
+          "scale": 1.4527978897094727
         }
       },
       "room_shadow": {
@@ -1218,17 +1218,17 @@
           },
           "dark": {
             "file": "sun_dark.png",
-            "scale": 2.0
+            "scale": 1.942052960395813
           }
         },
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.746436357498169
+            "scale": 1.5209863185882568
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.6803312301635742
+            "scale": 1.496038794517517
           }
         }
       },
@@ -1280,11 +1280,11 @@
       "shadow": {
         "light": {
           "file": "shadow_light.png",
-          "scale": 1.6573013067245483
+          "scale": 1.6556445360183716
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.5597119331359863
+          "scale": 1.4574583768844604
         }
       },
       "room_shadow": {
@@ -1295,17 +1295,17 @@
           },
           "dark": {
             "file": "sun_dark.png",
-            "scale": 2.0
+            "scale": 1.8867191076278687
           }
         },
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.9343446493148804
+            "scale": 1.5660619735717773
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.9015252590179443
+            "scale": 1.5041486024856567
           }
         }
       },
@@ -1357,11 +1357,11 @@
       "shadow": {
         "light": {
           "file": "shadow_light.png",
-          "scale": 2.0
+          "scale": 1.9999769926071167
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.5788180828094482
+          "scale": 1.4685670137405396
         }
       },
       "room_shadow": {
@@ -1378,11 +1378,11 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 2.0
+            "scale": 1.8062744140625
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.774112343788147
+            "scale": 1.5080605745315552
           }
         }
       },
@@ -1438,7 +1438,7 @@
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.5521365404129028
+          "scale": 1.454849123954773
         }
       },
       "room_shadow": {
@@ -1449,7 +1449,7 @@
           },
           "dark": {
             "file": "sun_dark.png",
-            "scale": 2.0
+            "scale": 1.9297866821289062
           }
         },
         "rest": {
@@ -1459,7 +1459,7 @@
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.8489964008331299
+            "scale": 1.5006282329559326
           }
         }
       },
@@ -1511,11 +1511,11 @@
       "shadow": {
         "light": {
           "file": "shadow_light.png",
-          "scale": 2.0
+          "scale": 1.9999293088912964
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.5503640174865723
+          "scale": 1.4588326215744019
         }
       },
       "room_shadow": {
@@ -1526,17 +1526,17 @@
           },
           "dark": {
             "file": "sun_dark.png",
-            "scale": 2.0
+            "scale": 1.951527714729309
           }
         },
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.7784899473190308
+            "scale": 1.60114586353302
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.6536957025527954
+            "scale": 1.503119707107544
           }
         }
       },
@@ -1619,11 +1619,11 @@
       "shadow": {
         "light": {
           "file": "shadow_light.png",
-          "scale": 1.8031941652297974
+          "scale": 1.7679997682571411
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.5524011850357056
+          "scale": 1.456199288368225
         }
       },
       "room_shadow": {
@@ -1634,17 +1634,17 @@
           },
           "dark": {
             "file": "sun_dark.png",
-            "scale": 2.0
+            "scale": 1.9809108972549438
           }
         },
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.7362639904022217
+            "scale": 1.5314853191375732
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.66367506980896
+            "scale": 1.5006580352783203
           }
         }
       },
@@ -1731,7 +1731,7 @@
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.553315281867981
+          "scale": 1.4601629972457886
         }
       },
       "room_shadow": {
@@ -1742,7 +1742,7 @@
           },
           "dark": {
             "file": "sun_dark.png",
-            "scale": 2.0
+            "scale": 1.969022512435913
           }
         },
         "rest": {
@@ -1752,7 +1752,7 @@
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.7337061166763306
+            "scale": 1.5044394731521606
           }
         }
       },
@@ -1839,7 +1839,7 @@
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.5496084690093994
+          "scale": 1.4496307373046875
         }
       },
       "room_shadow": {
@@ -1850,7 +1850,7 @@
           },
           "dark": {
             "file": "sun_dark.png",
-            "scale": 2.0
+            "scale": 1.9189634323120117
           }
         },
         "rest": {
@@ -1860,7 +1860,7 @@
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.8169994354248047
+            "scale": 1.4965380430221558
           }
         }
       },
@@ -1943,11 +1943,11 @@
       "shadow": {
         "light": {
           "file": "shadow_light.png",
-          "scale": 1.4164865016937256
+          "scale": 1.3795185089111328
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.0493183135986328
+          "scale": 1.0137944221496582
         }
       },
       "room_shadow": {
@@ -1958,17 +1958,17 @@
           },
           "dark": {
             "file": "sun_dark.png",
-            "scale": 2.0
+            "scale": 1.9374066591262817
           }
         },
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.953827977180481
+            "scale": 1.3763209581375122
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.8326665163040161
+            "scale": 1.1672885417938232
           }
         }
       },
@@ -2020,11 +2020,11 @@
       "shadow": {
         "light": {
           "file": "shadow_light.png",
-          "scale": 1.6830800771713257
+          "scale": 1.678027629852295
         },
         "dark": {
           "file": "shadow_dark.png",
-          "scale": 1.5742419958114624
+          "scale": 1.469179630279541
         }
       },
       "room_shadow": {
@@ -2041,11 +2041,11 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.9476487636566162
+            "scale": 1.828910231590271
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.7699894905090332
+            "scale": 1.5075852870941162
           }
         }
       },
