@@ -32,11 +32,21 @@
     "rest": {
       "light": {
         "file": "rest_light.png",
-        "scale": 1.7605384588241577
+        "scale": 1.8308618068695068
       },
       "dark": {
         "file": "rest_dark.png",
-        "scale": 1.5313776731491089
+        "scale": 1.816184639930725
+      }
+    },
+    "sky": {
+      "light": {
+        "file": "sky_light.png",
+        "scale": 2.0
+      },
+      "dark": {
+        "file": "sky_dark.png",
+        "scale": 2.0
       }
     }
   },

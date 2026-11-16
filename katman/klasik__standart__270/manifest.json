@@ -28,7 +28,8 @@
       "scale": 0.7964207530021667
     },
     "wall_mask": "wall_mask.png",
-    "sun_share": "sun_share.png"
+    "sun_share": "sun_share.png",
+    "sky_share": "sky_share.png"
   },
   "frame": {
     "light": {
@@ -81,11 +82,21 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.5468995571136475
+            "scale": 1.7016721963882446
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.0332002639770508
+            "scale": 1.111162781715393
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 1.7859160900115967
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 1.4129939079284668
           }
         }
       },
@@ -148,11 +159,21 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.7605384588241577
+            "scale": 1.8308618068695068
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.5313776731491089
+            "scale": 1.816184639930725
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 2.0
           }
         }
       },
@@ -236,11 +257,21 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.9368889331817627
+            "scale": 1.8991665840148926
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.5703719854354858
+            "scale": 1.8497809171676636
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 2.0
           }
         }
       },
@@ -303,11 +334,21 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.6805033683776855
+            "scale": 1.8867626190185547
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.5304228067398071
+            "scale": 1.7943288087844849
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 2.0
           }
         }
       },
@@ -370,11 +411,21 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.759229302406311
+            "scale": 1.8468034267425537
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.5320377349853516
+            "scale": 1.8191008567810059
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 2.0
           }
         }
       },
@@ -458,11 +509,21 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.7575076818466187
+            "scale": 1.87921941280365
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.5688737630844116
+            "scale": 1.8479554653167725
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 2.0
           }
         }
       },
@@ -525,11 +586,21 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.991114616394043
+            "scale": 1.8544710874557495
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.5441943407058716
+            "scale": 1.7282034158706665
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 1.91543710231781
           }
         }
       },
@@ -586,17 +657,27 @@
           },
           "dark": {
             "file": "sun_dark.png",
-            "scale": 1.333748698234558
+            "scale": 1.3337488174438477
           }
         },
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.2581113576889038
+            "scale": 1.5635759830474854
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.1872859001159668
+            "scale": 1.3765416145324707
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 1.9060474634170532
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 1.7609871625900269
           }
         }
       },
@@ -659,11 +740,21 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.2695212364196777
+            "scale": 1.607922077178955
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.1995848417282104
+            "scale": 1.3744757175445557
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 1.997390627861023
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 1.3086771965026855
           }
         }
       },
@@ -724,17 +815,27 @@
           },
           "dark": {
             "file": "sun_dark.png",
-            "scale": 1.9117069244384766
+            "scale": 1.911706805229187
           }
         },
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.9998220205307007
+            "scale": 1.5834789276123047
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.1806938648223877
+            "scale": 1.3827308416366577
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 1.7560946941375732
           }
         }
       },
@@ -818,11 +919,21 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.2715874910354614
+            "scale": 1.5871626138687134
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.2002631425857544
+            "scale": 1.3726017475128174
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 1.9974570274353027
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 1.3273875713348389
           }
         }
       },
@@ -883,17 +994,27 @@
           },
           "dark": {
             "file": "sun_dark.png",
-            "scale": 0.6409621834754944
+            "scale": 0.6409615874290466
           }
         },
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.2616946697235107
+            "scale": 1.5539021492004395
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.1945910453796387
+            "scale": 1.3592350482940674
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 1.653136134147644
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 1.3589906692504883
           }
         }
       },
@@ -956,11 +1077,21 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.2756260633468628
+            "scale": 1.5884298086166382
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.19595468044281
+            "scale": 1.3634474277496338
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 1.8981496095657349
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 1.3638144731521606
           }
         }
       },
@@ -1023,11 +1154,21 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.255771279335022
+            "scale": 1.5234383344650269
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.1851162910461426
+            "scale": 1.3831754922866821
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 1.7805112600326538
           }
         }
       },
@@ -1090,11 +1231,21 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.2857778072357178
+            "scale": 1.552951693534851
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.2114646434783936
+            "scale": 1.4637471437454224
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 1.9096275568008423
           }
         }
       },
@@ -1157,11 +1308,21 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.2294034957885742
+            "scale": 1.40586256980896
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.1842596530914307
+            "scale": 1.2987284660339355
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 1.9979588985443115
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 1.7645094394683838
           }
         }
       },
@@ -1224,11 +1385,21 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.5209863185882568
+            "scale": 1.9634463787078857
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.496038794517517
+            "scale": 1.659539818763733
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 2.0
           }
         }
       },
@@ -1301,11 +1472,21 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.5660619735717773
+            "scale": 1.8068066835403442
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.5041486024856567
+            "scale": 1.6657886505126953
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 2.0
           }
         }
       },
@@ -1378,11 +1559,21 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.8062744140625
+            "scale": 1.7950661182403564
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.5080605745315552
+            "scale": 1.7060083150863647
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 2.0
           }
         }
       },
@@ -1455,11 +1646,21 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 2.0
+            "scale": 1.7969363927841187
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.5006282329559326
+            "scale": 1.7134257555007935
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 2.0
           }
         }
       },
@@ -1532,11 +1733,21 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.60114586353302
+            "scale": 1.785310983657837
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.503119707107544
+            "scale": 1.687640905380249
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 1.8988738059997559
           }
         }
       },
@@ -1640,11 +1851,21 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.5314853191375732
+            "scale": 1.7736531496047974
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.5006580352783203
+            "scale": 1.6917459964752197
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 1.958214282989502
           }
         }
       },
@@ -1748,11 +1969,21 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 2.0
+            "scale": 1.998727560043335
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.5044394731521606
+            "scale": 1.700353980064392
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 2.0
           }
         }
       },
@@ -1856,11 +2087,21 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 2.0
+            "scale": 1.998944878578186
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.4965380430221558
+            "scale": 1.6879761219024658
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 2.0
           }
         }
       },
@@ -1964,11 +2205,21 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.3763209581375122
+            "scale": 1.5677504539489746
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.1672885417938232
+            "scale": 1.3096603155136108
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 1.9496139287948608
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 1.8141123056411743
           }
         }
       },
@@ -2041,11 +2292,21 @@
         "rest": {
           "light": {
             "file": "rest_light.png",
-            "scale": 1.828910231590271
+            "scale": 1.735897183418274
           },
           "dark": {
             "file": "rest_dark.png",
-            "scale": 1.5075852870941162
+            "scale": 1.6617107391357422
+          }
+        },
+        "sky": {
+          "light": {
+            "file": "sky_light.png",
+            "scale": 2.0
+          },
+          "dark": {
+            "file": "sky_dark.png",
+            "scale": 2.0
           }
         }
       },

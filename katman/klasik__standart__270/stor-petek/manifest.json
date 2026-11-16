@@ -26,17 +26,27 @@
       },
       "dark": {
         "file": "sun_dark.png",
-        "scale": 0.6409621834754944
+        "scale": 0.6409615874290466
       }
     },
     "rest": {
       "light": {
         "file": "rest_light.png",
-        "scale": 1.2616946697235107
+        "scale": 1.5539021492004395
       },
       "dark": {
         "file": "rest_dark.png",
-        "scale": 1.1945910453796387
+        "scale": 1.3592350482940674
+      }
+    },
+    "sky": {
+      "light": {
+        "file": "sky_light.png",
+        "scale": 1.653136134147644
+      },
+      "dark": {
+        "file": "sky_dark.png",
+        "scale": 1.3589906692504883
       }
     }
   },
